@@ -8,3 +8,5 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: In the near future knowing how to code will be as necessary as knowing how to write is today. Yes, regardless of the field or career your students decide for their future.
 
+[![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=abhikhedekar4241&count_private=true&theme=default&show_icons=true)](https://github.com/abhikhedekar4241)
+</a>
