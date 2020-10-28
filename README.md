@@ -10,3 +10,7 @@
 
 [![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=abhikhedekar4241&count_private=true&theme=default&show_icons=true)](https://github.com/abhikhedekar4241)
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhikhedekar4241&layout=compact)](https://github.com/abhikhedekar4241/github-readme-stats)
+
+<a href="https://twitter.com/abhi_4241"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href='https://www.linkedin.com/in/abhishek-khedekar-5a4316192/'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:abhikhedekar4241@gmail.com"><img src="https://img.shields.io/badge/abhikhedekar4241@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
